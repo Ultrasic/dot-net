@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\diogo.lopesdas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\diogo.lopesdas\\.nuget\\packages"
+    ]
+  }
+}
